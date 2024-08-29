@@ -1,0 +1,14 @@
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
