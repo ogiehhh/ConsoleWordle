@@ -8,6 +8,7 @@ internal class Program
       string wordle = "lover";
       string guess;
       bool solved = false;
+      Console.WriteLine("Welcome to Console wordle!!");
       // Playing the game loop
       while (!solved)
       {

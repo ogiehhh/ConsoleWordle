@@ -12,3 +12,4 @@ d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\refint\HelloWor
 d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 d:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+D:\OneDrive\Documents\notepad\Csharp\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
